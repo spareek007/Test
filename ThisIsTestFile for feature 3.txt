@@ -1,0 +1,17 @@
+Version 1 : Master
+
+
+this is first commit on feature/feature2
+
+This is a change for commit in feature/feature1 branch.
+This is second change for commit in feature/feature1 branch.
+
+this is a first commit in sprint 2
+
+
+This is first commit in feature/feature3
+
+
+THis is frist commit in new feature 1 branch
+THis is second commit in new feature 1 branch
+making a commit in feature 3
