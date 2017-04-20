@@ -15,3 +15,5 @@ This is first commit in feature/feature3
 THis is frist commit in new feature 1 branch
 THis is second commit in new feature 1 branch
 making a commit in feature 3
+
+New commit in master
