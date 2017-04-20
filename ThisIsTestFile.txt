@@ -19,3 +19,7 @@ THis is second commit in new feature 1 branch
 change in feature 1 for pull request.
 
 change in feature 1 for pull request review
+
+feature 1 commit1.
+
+feature 1 commit2
