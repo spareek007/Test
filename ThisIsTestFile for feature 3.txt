@@ -17,3 +17,4 @@ THis is second commit in new feature 1 branch
 making a commit in feature 3
 
 New commit in master
+New commit in master
