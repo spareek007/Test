@@ -18,3 +18,11 @@ making a commit in feature 3
 
 New commit in master
 New commit in master
+
+
+New commit in feature/feature1
+
+
+New commit in feature/feature3  commit 1
+New commit in feature/feature3  commit 2
+
