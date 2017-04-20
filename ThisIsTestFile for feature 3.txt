@@ -20,3 +20,5 @@ New commit in master
 New commit in master
 
 Feature/feature2 commit 1
+
+Feature/feature2 commit 2
