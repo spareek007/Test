@@ -21,3 +21,4 @@ New commit in master
 
 
 New commit in feature/feature3  commit 1
+New commit in feature/feature3  commit 2
