@@ -20,15 +20,9 @@ New commit in master
 New commit in master
 
 
-Feature/feature2 commit 1
-
-Feature/feature2 commit 2
-
-
 New commit in feature/feature1
 
 
 New commit in feature/feature3  commit 1
 New commit in feature/feature3  commit 2
 
->>>>>>> origin/develop
