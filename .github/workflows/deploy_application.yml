@@ -1,0 +1,26 @@
+name: Tag Release on PR Merge
+
+on:
+  push:
+    branches:
+      - master  # or 'main' if that's your default branch
+
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the code
+        uses: actions/checkout@v3
+
+      - name: Set up Git
+        uses: actions/setup-python@v3  # You can use other setups, but setup-python is usually fine.
+
+      - name: Create a new tag
+        run: |
+          # Increment the version number based on your needs (you can use a versioning tool like semver)
+          NEW_TAG="v1.0.${{ github.run_number }}"
+          git tag $NEW_TAG
+          git push origin $NEW_TAG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
