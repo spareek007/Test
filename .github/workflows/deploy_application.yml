@@ -3,7 +3,7 @@ name: Tag Release on PR Merge
 on:
   push:
     branches:
-      - master  # or 'main' if that's your default branch
+      - develop  # or 'main' if that's your default branch
 
 jobs:
   tag:
